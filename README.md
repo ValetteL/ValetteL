@@ -1,7 +1,7 @@
 # 👋 Louis VALETTE
 
 💻 Développeur d’applications avec expériences en freelance et en entreprise (ERP, outils métiers, Unity).  
-🔧 Projets réalisés en Javascript, HTML/CSS, PHP, C#, WebSocket, et en cours de spécialisation en Python (automatisation, RPA).  
+🔧 Projets réalisés en Javascript, HTML/CSS, PHP, C#, et en cours de spécialisation en Python (automatisation, RPA).  
 📍 Nantes – 📫 louis.valette2017@gmail.com
 
 ---
