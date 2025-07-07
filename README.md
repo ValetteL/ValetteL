@@ -8,22 +8,42 @@
 
 ## 🚀 Projets sélectionnés
 
-### 🎮 Autobattle (jeu multijoueur Unity)
-- 🔧 [autobattle-unity](https://github.com/ValetteL/autobattle-unity) – Client Unity multiplateforme (mobile/PC)  
-- 🧩 [PlayerModule](https://github.com/ValetteL/PlayerModule) – Backend Unity API (remplace Symfony)  
-- 🌐 [autobattle-api](https://github.com/ValetteL/autobattle-api) – Ancien backend PHP Symfony avec WebSocket
+### 🎮 Autobattle – Jeu multijoueur Unity
 
-### 💬 Tchat temps réel
-- 📡 [Slaque_true](https://github.com/ValetteL/Slaque_true) – Tchat PHP + WebSocket inspiré de Slack
+- 🧠 [`autobattle-client-unity`](https://github.com/ValetteL/autobattle-client-unity)  
+  > Interface multiplateforme (PC/mobile) avec UI, combats, boutique, progression
 
-### 🌌 Jeu de stratégie spatiale
-- 🪐 [Game](https://github.com/ValetteL/Game) – Jeu de colonisation spatiale avec génération procédurale
+- 🧩 [`autobattle-backend-unity`](https://github.com/ValetteL/autobattle-backend-unity)  
+  > Backend C# basé sur Unity Cloud Services pour gérer comptes, équipements, matchmaking
+
+- 🧰 [`autobattle-backend-symfony`](https://github.com/ValetteL/autobattle-backend-symfony) *(ancien backend)*  
+  > API Symfony + WebSocket : combats, inventaire, shop, sécurisation
 
 ---
 
-## 🛠️ Stack technique
-- **Langages** : Python, PHP, JavaScript, C#, HTML/CSS  
-- **Frameworks** : Symfony, Node.js, Unity  
-- **Outils** : Git, WebSocket, API REST, RPA, MySQL, Unity Services
+### 💬 Chat temps réel
 
-🔗 Portfolio/CV : à venir – en cours de publication
+- 📡 [`chat-realtime-php`](https://github.com/ValetteL/chat-realtime-php)  
+  > Application de tchat temps réel en PHP avec WebSockets, HTML/CSS/JS
+
+---
+
+### 🌌 Jeu de stratégie spatiale
+
+- 🌠 [`galactic-strategy-symfony`](https://github.com/ValetteL/galactic-strategy-symfony)  
+  > Génération procédurale de systèmes stellaires + gestion de colonies (Symfony + JS)
+
+---
+
+## 📦 Stack technique
+
+- **Langages** : JavaScript, C#, HTML/CSS, Python (RPA), PHP 
+- **Frameworks** : Node.js, Unity, Symfony
+- **Techs** : WebSocket, REST API, Unity Services  
+- **Outils** : Git, VS Code, Postman, GitHub Actions
+
+---
+
+📫 Contact : louis.valette2017@gmail.com  
+📄 CV : disponible sur demande ou via candidature
+
