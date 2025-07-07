@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Mes projets de développement
+## 🚀 Mes projets
 
 ### 🎮 Autobattle – Jeu multijoueur Unity
 
