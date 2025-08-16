@@ -8,6 +8,10 @@
 
 ## 🚀 Mes projets
 
+### 🚧 CreativForge – Plateforme de génération d'idées créatifs augmentée par IA
+
+- [`CreativeForge`](https://github.com/ValetteL/CreativeForge)  
+
 ### 🎮 Autobattle – Jeu multijoueur Unity
 
 - 🧠 [`autobattle-client-unity`](https://github.com/ValetteL/autobattle-client-unity)  
