@@ -10,7 +10,7 @@
 
 ### 🚧 CreativForge – Plateforme de génération d'idées créatifs augmentée par IA
 
-- 🎲 [`CreativeForge`](https://github.com/ValetteL/CreativeForge)
+- 🎲 [`CreativForge`](https://github.com/ValetteL/CreativForge)
   > Générateur de prompts créatifs/granulaire, Planification d’objectifs ou d’étapes, Génération de briefs et export au format PDF
 
 ### 🎮 Autobattle – Jeu multijoueur Unity
